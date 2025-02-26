@@ -55,6 +55,11 @@
       ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 </details>
+<details>
+  <summary><strong>Resume</strong></summary>
+
+ :3
+</details>
 
 <!---
 huynhli/huynhli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
