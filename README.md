@@ -61,7 +61,7 @@
  :3
 </details>
 <div align="center">
-**Thanks for stopping by!**
+<strong>Thanks for stopping by!</strong>
 </div>
 <!---
 huynhli/huynhli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
