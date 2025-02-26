@@ -4,7 +4,7 @@
   ---  
   I'm an aspiring web developer also interested in game development and design.
 
-  My Current Stack:<br>
+  My Current Stack:<br>  
     ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
