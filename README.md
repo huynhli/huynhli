@@ -69,6 +69,7 @@
   - [Jester (Game)](https://trachscor.itch.io/jester) for [Mini Jame Gam #42](https://itch.io/jam/mini-jame-gam-42)  
     - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
       ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+      ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
   
   - Licht (Game) (Coming Soon!)  
     - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
