@@ -3,7 +3,7 @@
   **Hi, I'm Liam 👋**  
   ---  
   I'm an aspiring web developer also interested in game development and design.  
-  [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://liamhuynh.pages.dev/aug_resume.pdf)
+  [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://liamhuynh.pages.dev/resume2025.pdf) <br/>
   <a href="https://www.linkedin.com/in/liam-huynh-91aa1a1a1/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
