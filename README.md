@@ -2,7 +2,7 @@
 
 **`Web and Games Developer`**  
 
-I'm a full-stack developer obsessed with creating client-focused web solutions. I love analyzing real-world problems and designing scalable solutions that let my code come to life. I'm also interested in game development and design, constantly exploring ways to merge creativity with technology to craft engaging and interactive experiences. Whether building intuitive web applications or experimenting with game mechanics, I thrive on turning ideas into functional, user-centric products.
+I'm a full-stack developer who likes creating web solutions. I love analyzing real-world problems and designing clean solutions that help people. I'm also interested in game development and design, constantly exploring ways to merge creativity with technology to craft engaging and interactive experiences.
 
 All of my work is available at [my portfolio](https://liamhuynh.pages.dev).  
 Also, [shoot me a message](mailto:liamtamh@gmail.com) if you'd like to collaborate on something as I'm always open to new projects!
