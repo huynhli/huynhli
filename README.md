@@ -163,7 +163,7 @@ Other languages I've used to build things are Python, Javascript, GDScript, Java
 
 ## Stats
 
-![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhli&show_icons=true)
+![Liam's GitHub stats](https://github-stats-extended.vercel.app/api?username=huynhli&show_icons=true)
 
 <p align="center">
 <strong>Thanks for stopping by!</strong>
