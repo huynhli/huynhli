@@ -2,10 +2,10 @@
 
 **`Web and Games Developer`**  
 
-I'm a full-stack developer who likes creating web solutions. I love analyzing real-world problems and designing clean solutions that help people. I'm also interested in game development and design, constantly exploring ways to merge creativity with technology to craft engaging and interactive experiences.
+I'm a full-stack developer who likes building solutions to problems I find. I'm also interested in game development and design, so I like making games with friends.
 
 All of my work is available at [my portfolio](https://liamhuynh.pages.dev).  
-Also, [shoot me a message](mailto:liamtamh@gmail.com) if you'd like to collaborate on something as I'm always open to new projects!
+Also, [shoot me a message](mailto:liamtamh@gmail.com) if you'd like to talk!  
 
 <div align="center">
   <br/>
@@ -19,11 +19,11 @@ Also, [shoot me a message](mailto:liamtamh@gmail.com) if you'd like to collabora
 </div>
 
 ## My Stack
-Backend: Fiber (Go), MongoDB / PostgreSQL, Postman / Insomnia  
+Backend: Fiber (Go) / .NET (C#), MongoDB / PostgreSQL, Postman / Insomnia  
 Frontend: Typescript (React), Jest / Cypress  
-Other languages I've used to build things are C#, Python, Javascript, GDScript, Java, MIPS Assembly, and C++.
+Other languages I've used to build things are Python, Javascript, GDScript, Java, MIPS Assembly, and C++.
 
-## Languages and Tools
+## Frameworks and Tools / Languages  
 ### Frontend
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
@@ -59,8 +59,7 @@ Other languages I've used to build things are C#, Python, Javascript, GDScript, 
 
 <br/>
 
-### Misc
-
+### Tools
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -164,8 +163,7 @@ Other languages I've used to build things are C#, Python, Javascript, GDScript, 
 
 ## Stats
 
-[![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhli)](https://github.com/huynhli/github-readme-stats)
-# 
+![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhli&show_icons=true&theme=default)
 
 <p align="center">
 <strong>Thanks for stopping by!</strong>
