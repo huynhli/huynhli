@@ -19,9 +19,12 @@ Also, [shoot me a message](mailto:liamtamh@gmail.com) if you'd like to talk!
 </div>
 
 ## My Stack
-Backend: Fiber (Go) / .NET (C#), MongoDB / PostgreSQL, Postman / Insomnia  
-Frontend: Typescript (React), Jest / Cypress  
-Other languages I've used to build things are Python, Javascript, GDScript, Java, MIPS Assembly, and C++.
+# Backend: 
+Fiber (Go) / .NET (C#), MongoDB / PostgreSQL, Postman / Insomnia  
+# Frontend: 
+Typescript (React), Jest / Cypress  
+# Other languages I've used before: 
+Python, Javascript, GDScript, Java, MIPS Assembly, and C++.
 
 ## Frameworks and Tools / Languages  
 ### Frontend
