@@ -19,11 +19,11 @@ Also, [shoot me a message](mailto:liamtamh@gmail.com) if you'd like to talk!
 </div>
 
 ## My Stack
-# Backend: 
+**Backend:** 
 Fiber (Go) / .NET (C#), MongoDB / PostgreSQL, Postman / Insomnia  
-# Frontend: 
+**Frontend:** 
 Typescript (React), Jest / Cypress  
-# Other languages I've used before: 
+**Other languages I've used before:**
 Python, Javascript, GDScript, Java, MIPS Assembly, and C++.
 
 ## Frameworks and Tools / Languages  
